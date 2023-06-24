@@ -1,0 +1,51 @@
+.offer-pg-cont {
+  width: 100%;
+  overflow-x: auto;
+  margin: 0px;
+}
+span.arrow-left,
+span.arrow-right {
+  display: block;
+  position: absolute;
+  background-color: #555;
+  top: 40px;
+  color: white;
+  z-index: 2;
+  cursor: pointer;
+}
+span.arrow-left {
+  left: 0px;
+}
+span.arrow-right {
+  right: 0px;
+}
+span.arrow-left:hover,
+.offer-pg span.arrow-right:hover {
+  background-color: #333;
+}
+.offer-pg {
+  width: 1500px;
+}
+.item-wrapper.offer-con {
+  background-color: #333 !important;
+}
+.offer-con .left-item h4 {
+  color: #fff;
+  font-weight: normal;
+  margin: 0px;
+}
+.offer-con .right-item {
+  float: right;
+  padding: 10px;
+}
+.offer-con .right-item h5 {
+  color: #cb9944;
+  margin: 0px;
+  font-size: 14px;
+}
+.offer-pg > .portfolio-item {
+  width: 100px;
+  background-color: blue;
+  margin-left: 10px;
+  float: left;
+}
