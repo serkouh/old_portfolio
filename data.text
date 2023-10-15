@@ -1,0 +1,22 @@
+{
+  "people": [
+    {
+      "name": "John Doe",
+      "age": 30,
+      "company": "ABC Inc.",
+      "jobTitle": "Software Engineer"
+    },
+    {
+      "name": "Jane Smith",
+      "age": 25,
+      "company": "XYZ Corporation",
+      "jobTitle": "Marketing Manager"
+    },
+    {
+      "name": "Bob Johnson",
+      "age": 35,
+      "company": "123 Industries",
+      "jobTitle": "Product Manager"
+    }
+  ]
+}
